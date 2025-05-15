@@ -1,24 +1,60 @@
-<!-- Esse README é provisório criado apenas para auxiliar mostrando instruções do Git para não familiarizados -->
+# 🛒 DD-Tech – E-commerce Responsivo com HTML, CSS e JavaScript
 
-# Projeto DD-Tech 💻
+🔗 [Acesse o site](https://devisonsantana.github.io/DD-Tech/)  
+🎥 [Assista ao pitch](https://youtu.be/0ZCKI0gLT8Q)
 
-Link para o site:
-> [Ecommerce](https://devisonsantana.github.io/DD-Tech/)
+## 👥 Sobre o Projeto
 
-Video Pitch
-> [Video](https://youtu.be/0ZCKI0gLT8Q)
+Este projeto foi desenvolvido por um grupo de quatro desenvolvedores durante o curso **Talento Cloud da Proz**. Durante mais de 3 meses de aprendizado intenso em **desenvolvimento front-end**, colocamos nossos conhecimentos em prática construindo este e-commerce funcional do zero.
 
-### Somos um grupo de 4 desenvolvedor: Deividson, Devison, Emerso e Gabriel.
+### 💡 Objetivo
 
-<p>Este é um projeto do curso Talento cloud da Proz, onde foram mais de 3 meses estudndo front-end e colocando nossos conhecimentos em prática.
-<br>
-Desenvolvemos este e-commerce, em sua totalidade utilizando somente HTML, CSS e JAVASCRIPT,<br>
-Trabalhamos conceitos de semântica no html, diferentes layouts, funções, eventos e requisições a api no Javascript.</p>
-Você pode simular todo processo de uma compra dentro eccomerce, que esta preparado para ser utilizado de forma comercial com pequenos ajustes. 
+Criar um **site de e-commerce responsivo e funcional** utilizando exclusivamente tecnologias do front-end:
 
-## Membros Colaboradores
+- **HTML Semântico**
+- **CSS para estilos e layouts modernos**
+- **JavaScript puro** para lógica, interações e consumo de APIs
 
-- [Deividson](https://github.com/DeividsonOmedio)
-- [Devison](https://github.com/DevisonSantana/)
-- [Emerson](https://github.com/EmersonPenelli)
-- [Gabriel](https://github.com/Anbuyyy9)
+---
+
+## 🚀 Funcionalidades
+
+- Simulação completa do processo de compra
+- Carrinho de compras funcional
+- Requisição a APIs para simular produtos dinâmicos
+- Layout responsivo e design limpo
+- Estrutura pronta para ser adaptada a ambientes comerciais reais com poucos ajustes
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git & GitHub para controle de versão
+
+---
+
+## 👨‍💻 Desenvolvedores
+
+| Nome      | GitHub                                   |
+|-----------|-------------------------------------------|
+| Deividson | [DeividsonOmedio](https://github.com/DeividsonOmedio) |
+| Devison   | [DevisonSantana](https://github.com/DevisonSantana/) |
+| Emerson   | [EmersonPenelli](https://github.com/EmersonPenelli) |
+| Gabriel   | [Anbuyyy9](https://github.com/Anbuyyy9) |
+
+---
+
+## 📌 Observações
+
+> Este projeto foi desenvolvido como exercício prático e demonstra a capacidade do grupo em aplicar conceitos de **HTML, CSS e JS** para criar soluções funcionais e escaláveis.  
+> O repositório também contém instruções de Git para facilitar o uso por quem não está familiarizado com a plataforma.
+
+---
+
+## 💬 Feedback
+
+Ficaremos felizes com sugestões, feedbacks ou colaborações!  
+Entre em contato via GitHub Issues ou diretamente pelos perfis acima.
